@@ -19,6 +19,6 @@ I know how to add new fields in the general settings page, but was not sure how 
 </ul>
 <p>Test was interesting combination of testing logic and the deep level of wordpress knowledge. I really loved the way it was asked to implement where I also learned something new while implementing and testing my ability to work in wordpress.</p>
 
-<p>I spent around 5-6 hrs to implement it and set up this rep</p>
+<p>I spent around 5-6 hrs to implement it and set up this repo</p>
 
 
