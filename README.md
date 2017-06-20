@@ -16,7 +16,7 @@ To use the fake api, copy the blue-api folder wherever you want to install and t
 <li>
 I know how to add new fields in the general settings page, but was not sure how to add new button under Save changes button (I have left commented code in the plugin file to show how I added button on General Settings page and it was going on top of the page) . Therefore, I have created new admin page for the plugin to add option for updating categories on demand.
 </li>
-
+</ul>
 <p>Test was interesting combination of testing logic and the deep level of wordpress knowledge. I really loved the way it was asked to implement where I also learned something new while implementing and testing my ability to work in wordpress.</p>
 
 <p>I spent around 5-6 hrs to implement it and set up this rep</p>
